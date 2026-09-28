@@ -1,0 +1,4 @@
+interface:
+  display_name: "Développer apps NumWorks et TI CE"
+  short_description: "Développement C NumWorks et TI CE"
+  default_prompt: "Utilise $develop-numworks-ti-apps pour créer ou porter cette application calculatrice."
